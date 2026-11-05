@@ -8,7 +8,7 @@ Last updated: 2026-11-05
 | Knowledge base repo (`website-reporting` on GitHub) | Done | Claude |
 | Folder index + SEO tool notes saved | Done | Claude |
 | Marketing plugin (Anthropic) | Installed | Payton |
-| SEO GSC Wizard plugin | Installed. Still needs sign-in to Search Console (see below) | Payton |
+| SEO GSC Wizard plugin | Sign-in failed (2026-11-05). On hold; use Claude in Chrome or CSV exports for Search Console instead | Payton |
 | SEO Audit plugin | Installed | Payton |
 | Claude in Chrome extension | To do | Payton |
 | Repo downloaded on the Mac (`Claude Code/website reporting`) | Check, then run `git pull` | Payton |

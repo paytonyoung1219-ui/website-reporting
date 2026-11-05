@@ -34,3 +34,4 @@ file first whenever it works here, and keeps it updated with what it learns.
 - 2026-11-05: Indexed the Claude Code folder (`notes/claude-code-folder-index.md`).
 - 2026-11-05: Saved SEO tool stack recommendations (`notes/seo-tools.md`).
 - 2026-11-05: Installed Marketing, SEO GSC Wizard and SEO Audit plugins; setup guide in `notes/claude-setup.md`.
+- 2026-11-05: GSC Wizard sign-in failed. Plan: read Search Console through Claude in Chrome, or from CSV exports.
